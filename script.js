@@ -1,3 +1,4 @@
+// one slight change
 //defining the values
 const contentSection = document.querySelector("#slide")
 const ActionBtn = document.querySelector(".challange-button")
